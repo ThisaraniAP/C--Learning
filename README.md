@@ -1,2 +1,2 @@
-# C--Learning
+# C# Learning
 My journey learning C#
