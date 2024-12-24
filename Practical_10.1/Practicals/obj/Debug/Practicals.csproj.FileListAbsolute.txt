@@ -1,0 +1,13 @@
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\bin\Debug\Practicals.exe.config
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\bin\Debug\Practicals.exe
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\bin\Debug\Practicals.pdb
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.csproj.AssemblyReference.cache
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.csproj.SuggestedBindingRedirects.cache
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.Form1.resources
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.Properties.Resources.resources
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.csproj.GenerateResource.cache
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.csproj.CoreCompileInputs.cache
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.exe
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.pdb
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.register.resources
+D:\Thisa\Esoft\190ThisaraniE190476\10\Practical_10.1\Practicals\obj\Debug\Practicals.Calculator.resources
