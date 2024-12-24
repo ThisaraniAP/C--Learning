@@ -1,0 +1,23 @@
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\bin\Debug\firstWinForm.exe.config
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\bin\Debug\firstWinForm.exe
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\bin\Debug\firstWinForm.pdb
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.csprojResolveAssemblyReference.cache
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Form1.resources
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Properties.Resources.resources
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.csproj.GenerateResource.Cache
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.exe
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.pdb
+C:\Users\esoft\Documents\Visual Studio 2015\Projects\Test2\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Form2.resources
+E:\firstWinForm\firstWinForm\bin\Debug\firstWinForm.exe.config
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.exe
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.pdb
+E:\firstWinForm\firstWinForm\bin\Debug\firstWinForm.exe
+E:\firstWinForm\firstWinForm\bin\Debug\firstWinForm.pdb
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.csprojResolveAssemblyReference.cache
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Form1.resources
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Form2.resources
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.Properties.Resources.resources
+E:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.csproj.GenerateResource.Cache
+F:\firstWinForm\firstWinForm\bin\Debug\firstWinForm.exe.config
+F:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.exe
+F:\firstWinForm\firstWinForm\obj\Debug\firstWinForm.pdb

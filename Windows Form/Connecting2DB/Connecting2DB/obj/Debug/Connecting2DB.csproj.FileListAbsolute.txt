@@ -1,0 +1,20 @@
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\bin\Debug\Connecting2DB.exe.config
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\bin\Debug\Connecting2DB.exe
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\bin\Debug\Connecting2DB.pdb
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.csprojResolveAssemblyReference.cache
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.Form1.resources
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.Properties.Resources.resources
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.csproj.GenerateResource.Cache
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.exe
+c:\users\lab1.esoftkandy\documents\visual studio 2015\Projects\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.pdb
+F:\Connecting2DB\Connecting2DB\bin\Debug\Connecting2DB.exe.config
+F:\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.exe
+F:\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.pdb
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\bin\Debug\Connecting2DB.exe.config
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.exe
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.pdb
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.csprojResolveAssemblyReference.cache
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.Form1.resources
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.Properties.Resources.resources
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.csproj.GenerateResource.Cache
+C:\Users\lab1.ESOFTKANDY\Documents\Connecting2DB\Connecting2DB\obj\Debug\Connecting2DB.Form2.resources
